@@ -2,7 +2,7 @@
 name: Bug item type
 about: Create a report to help us improve
 title: "[BUG] Bug"
-labels: bug
+labels: ''
 assignees: iguffick23
 
 ---
